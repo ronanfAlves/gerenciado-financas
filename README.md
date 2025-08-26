@@ -35,7 +35,8 @@ O projeto foi desenvolvido como atividade prática da disciplina de Programaçã
 ---
 
 ## 📊 Diagrama de Classes
-![Diagrama](./docs/diagrama.png)
+![image](https://github.com/ronanfAlves/gerenciado-financas/assets/123456789/abcdef01-2345-6789-abcd-ef0123456789)
+
 
 ---
 
